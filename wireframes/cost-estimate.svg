@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+    <rect width="144" height="144" rx="16" fill="#0f0f1e"/>
+
+    <text x="72" y="24" text-anchor="middle" fill="#aaa" font-family="Arial, sans-serif"
+      font-size="13" font-weight="700" letter-spacing="1">COST</text>
+
+    <text x="42" y="58" text-anchor="middle" fill="#22c55e" font-family="Arial, sans-serif"
+      font-size="16" font-weight="bold">$</text>
+
+    <text x="82" y="88" text-anchor="middle" fill="white" font-family="Arial, sans-serif"
+      font-size="36" font-weight="bold">4.65</text>
+
+    <rect x="16" y="108" width="112" height="8" rx="4" fill="#222"/>
+    <rect x="16" y="108" width="78" height="8" rx="4" fill="#22c55e"/>
+
+    <text x="72" y="136" text-anchor="middle" fill="#666" font-family="Arial, sans-serif"
+      font-size="12" font-weight="600">78% used</text>
+  </svg>

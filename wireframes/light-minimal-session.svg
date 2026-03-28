@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+    <rect width="144" height="144" rx="16" fill="#f0f0f4"/>
+
+    <text x="72" y="32" text-anchor="middle" fill="#666" font-family="Arial, sans-serif"
+      font-size="14" font-weight="700" letter-spacing="1">5H</text>
+
+    <text x="72" y="84" text-anchor="middle" fill="#1a1a1a" font-family="Arial, sans-serif"
+      font-size="48" font-weight="bold">42<tspan font-size="24" fill="#666">%</tspan></text>
+
+    <rect x="16" y="112" width="112" height="8" rx="4" fill="#d4d4d8"/>
+    <rect x="16" y="112" width="47" height="8" rx="4" fill="#22c55e"/>
+  </svg>

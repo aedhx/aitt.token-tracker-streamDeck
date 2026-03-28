@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+    <rect width="144" height="144" rx="16" fill="#0f0f1e"/>
+
+    <text x="72" y="32" text-anchor="middle" fill="#666" font-family="Arial, sans-serif"
+      font-size="14" font-weight="700" letter-spacing="1">SON</text>
+
+    <text x="72" y="84" text-anchor="middle" fill="white" font-family="Arial, sans-serif"
+      font-size="48" font-weight="bold">35<tspan font-size="24" fill="#888">%</tspan></text>
+
+    <rect x="16" y="112" width="112" height="8" rx="4" fill="#222"/>
+    <rect x="16" y="112" width="39" height="8" rx="4" fill="#22c55e"/>
+
+    <text x="72" y="138" text-anchor="middle" fill="#555" font-family="Arial, sans-serif" font-size="13" font-weight="600">4d</text>
+  </svg>

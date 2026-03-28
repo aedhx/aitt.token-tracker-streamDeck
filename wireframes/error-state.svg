@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+    <rect width="144" height="144" rx="16" fill="#0f0f1e"/>
+    <text x="72" y="56" text-anchor="middle" fill="#ef4444" font-family="Arial, sans-serif"
+      font-size="40" font-weight="bold">!</text>
+    <text x="72" y="90" text-anchor="middle" fill="#aaa" font-family="Arial, sans-serif"
+      font-size="14" font-weight="600">No key</text>
+  </svg>

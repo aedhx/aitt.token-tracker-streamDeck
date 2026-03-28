@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+    <rect width="144" height="144" rx="16" fill="#0f0f1e"/>
+
+    <!-- Row 1: 5H -->
+    <text x="14" y="34" fill="#888" font-family="Arial, sans-serif" font-size="14" font-weight="700">5H</text>
+    <rect x="44" y="22" width="68" height="12" rx="6" fill="#222"/>
+    <rect x="44" y="22" width="29" height="12" rx="6" fill="#22c55e"/>
+    <text x="130" y="35" text-anchor="end" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">42%</text>
+
+    <!-- Row 2: 7D -->
+    <text x="14" y="74" fill="#888" font-family="Arial, sans-serif" font-size="14" font-weight="700">7D</text>
+    <rect x="44" y="62" width="68" height="12" rx="6" fill="#222"/>
+    <rect x="44" y="62" width="53" height="12" rx="6" fill="#f59e0b"/>
+    <text x="130" y="75" text-anchor="end" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">78%</text>
+
+    <!-- Row 3: SON -->
+    <text x="14" y="114" fill="#888" font-family="Arial, sans-serif" font-size="14" font-weight="700">SON</text>
+    <rect x="44" y="102" width="68" height="12" rx="6" fill="#222"/>
+    <rect x="44" y="102" width="24" height="12" rx="6" fill="#22c55e"/>
+    <text x="130" y="115" text-anchor="end" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">35%</text>
+  </svg>

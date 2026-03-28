@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="144" viewBox="0 0 144 144">
+    <rect width="144" height="144" rx="16" fill="#0f0f1e"/>
+    <clipPath id="rounded"><rect width="144" height="144" rx="16"/></clipPath>
+    <rect x="0" y="84" width="144" height="60" fill="#22c55e" opacity="0.35" clip-path="url(#rounded)"/>
+
+    <text x="72" y="32" text-anchor="middle" fill="#888" font-family="Arial, sans-serif"
+      font-size="14" font-weight="700" letter-spacing="1">5H</text>
+
+    <text x="72" y="90" text-anchor="middle" fill="white" font-family="Arial, sans-serif"
+      font-size="52" font-weight="bold">42<tspan font-size="24" fill="#888">%</tspan></text>
+  </svg>
