@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="wireframes/gauge-session.svg" width="72" /> <img src="wireframes/gauge-weekly.svg" width="72" /> <img src="wireframes/gauge-overview.svg" width="72" /> <img src="wireframes/cost-estimate.svg" width="72" /> <img src="wireframes/sparkline.svg" width="72" /> <img src="wireframes/openai-status.svg" width="72" /> <img src="wireframes/mistral-status.svg" width="72" />
+<img src="gallery/thumbnail.png" width="600" />
 
 ### Know exactly where you stand. Always.
 
 **Stop guessing your AI usage. See it live on your Stream Deck.**
 
-[![Marketplace](https://img.shields.io/badge/Elgato%20Marketplace-$1.99-blue?logo=elgato)](https://marketplace.elgato.com)
+[![Marketplace](https://img.shields.io/badge/Elgato%20Marketplace-$1.99-blue?logo=elgato)](https://marketplace.elgato.com/product/ai-token-tracker-placeholder)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 </div>
@@ -37,6 +37,20 @@ You're deep in a coding session. You're in the flow. And then — *rate limited*
 | | Weekly Heatmap | 7-day intensity grid |
 | **OpenAI** | OpenAI Usage | Connection status or spend (admin key) |
 | **Mistral** | Mistral Usage | Connection status + available models |
+
+---
+
+<div align="center">
+
+### 3 Display Styles
+
+Choose the visualization that fits your workflow
+
+<img src="gallery/display-styles.png" width="800" />
+
+*Available in Dark & Light themes*
+
+</div>
 
 ---
 
@@ -163,6 +177,10 @@ These actions have a fixed layout — no Display Style selector needed.
 
 ## Multi-LLM support
 
+<div align="center">
+<img src="gallery/multi-llm-support.png" width="800" />
+</div>
+
 Track OpenAI and Mistral alongside Claude. Just paste an API key — no cookie extraction needed.
 
 <table>
@@ -188,6 +206,10 @@ Track OpenAI and Mistral alongside Claude. Just paste an API key — no cookie e
 ---
 
 ## Smart color alerts
+
+<div align="center">
+<img src="gallery/smart-color-alerts.png" width="800" />
+</div>
 
 | What you see | What it means |
 |:---|:---|
@@ -251,20 +273,11 @@ The plugin includes a **step-by-step guide** directly in the settings panel. In 
 
 ---
 
-## Build from source
+## Install
 
-```bash
-git clone https://github.com/aedhx/StreamDeckToken.git
-cd StreamDeckToken
-npm install
-npm run build
-```
+Install directly from the [Elgato Marketplace](https://marketplace.elgato.com/product/ai-token-tracker-placeholder).
 
-Copy `com.aitt.token-tracker.sdPlugin` to your plugins folder:
-
-| macOS | `~/Library/Application Support/com.elgato.StreamDeck/Plugins/` |
-|:---|:---|
-| **Windows** | `%APPDATA%\Elgato\StreamDeck\Plugins\` |
+<!-- URL will be updated once the plugin is approved on the Marketplace -->
 
 ---
 
