@@ -9,7 +9,6 @@
 **Stop guessing your AI usage. See it live on your Stream Deck.**
 
 [![Marketplace](https://img.shields.io/badge/Elgato%20Marketplace-$1.99-blue?logo=elgato)](https://marketplace.elgato.com/product/ai-token-tracker-placeholder)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 </div>
 
@@ -287,16 +286,10 @@ Install directly from the [Elgato Marketplace](https://marketplace.elgato.com/pr
 
 ---
 
-## License
-
-MIT
-
----
-
 <div align="center">
 
 **Built for people who live in their terminal and on their Stream Deck.**
 
-[Report an issue](https://github.com/aedhx/StreamDeckToken/issues)
+[Report an issue](https://github.com/aedhx/aitt.token-tracker-streamDeck/issues)
 
 </div>
