@@ -8,7 +8,7 @@
 
 **Stop guessing your AI usage. See it live on your Stream Deck.**
 
-[![Marketplace](https://img.shields.io/badge/Elgato%20Marketplace-$1.99-blue?logo=elgato)](https://marketplace.elgato.com/product/ai-token-tracker-placeholder)
+[![Marketplace](https://img.shields.io/badge/Elgato%20Marketplace-$1.99-blue?logo=elgato)](https://marketplace.elgato.com/product/ai-token-tracker-dde1f77d-1945-439f-b78b-ffe03d8efed3)
 
 </div>
 
